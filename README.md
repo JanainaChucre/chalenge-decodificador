@@ -30,7 +30,7 @@ Por exemplo:
 
 ### 3.1. HTML
 
-O HTML fiz de forma que ficasse o mais semântico possível colocando a tag <main> e dentro dela duas tags <section> uma onde fica a caixa de texto para o usuário digitar o que vai ser criptografado ou descriptografado e outra para mostrar o resultado.
+O HTML fiz de forma que ficasse o mais semântico possível colocando a tag `main` e dentro dela duas tags `section` uma onde fica a caixa de texto para o usuário digitar o que vai ser criptografado ou descriptografado e outra para mostrar o resultado.
 
 ### 3.2. CSS
 
